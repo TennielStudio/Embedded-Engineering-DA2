@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\Debug\DA2T1ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2T1ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2T1ASM.map</FILE>
+  <FILE>DA2T1ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\main.asm</FILE><LINE>15</LINE></start>
+  <makeDelay><FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\main.asm</FILE><LINE>22</LINE></makeDelay>
+  <body><FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\main.asm</FILE><LINE>30</LINE></body>
+  <finito><FILE>c:\users\tenni\Documents\Atmel Studio\7.0\DA2T1ASM\DA2T1ASM\main.asm</FILE><LINE>36</LINE></finito>
+ </LABELS>
+</ASSEMBLER_INFO>
